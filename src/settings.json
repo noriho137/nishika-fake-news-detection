@@ -1,0 +1,6 @@
+{
+    "RAW_DATA_DIR": "/content/drive/MyDrive/Colab Notebooks/nishika/FakeNewsDetection/dataset/",
+    "MODEL_CHECKPOINT_DIR": "/content/drive/MyDrive/Colab Notebooks/nishika/FakeNewsDetection/out/models/",
+    "LOGS_DIR": "/content/drive/MyDrive/Colab Notebooks/nishika/FakeNewsDetection/out/logs/",
+    "SUBMISSION_DIR": "/content/drive/MyDrive/Colab Notebooks/nishika/FakeNewsDetection/out/submissions/"
+}
